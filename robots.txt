@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://a-l-service.com/sitemap.xml
